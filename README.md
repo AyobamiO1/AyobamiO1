@@ -5,7 +5,15 @@ I graduated from Bowie State University in Maryland with a bachelors degree in c
 Through the skillbridge program I was able to find the CMS cybervets program which is now training me on the skillsets needed for network security monitoring, threat management, reverse engineering and data management.
 
 ## Wiki 
-This is my home page
+This is my [Home page]
+* [LinkedIn] (https://www.linkedin.com/in/ayobami-ogunsola-10889262/)  
+
+
+## Skills and Experience 
+* ⚓🚢 U.S Navy 
+* 💻 Linux, Splunk, Windows
+* 📱 windows
+
 
 AyobamiO1/AyobamiO1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
