@@ -11,7 +11,7 @@ This is my [Home page]
 
 ## Skills and Experience 
 * ⚓🚢 U.S Navy 
-* 💻 Linux, Splunk, Windows
+* 💻 Linux, Splunk
 * 📱 windows
 
 
