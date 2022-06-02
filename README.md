@@ -7,6 +7,7 @@ Through the skillbridge program I was able to find the CMS cybervets program whi
 ## Wiki 
 This is my [Home page]
 * [LinkedIn] (https://www.linkedin.com/in/ayobami-ogunsola-10889262/)  
+* [Resume] https://github.com/AyobamiO1/AyobamiO1/wiki/Resume
 
 
 ## Skills and Experience 
